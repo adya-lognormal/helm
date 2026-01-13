@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  shipping:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-01-13T19:30:02.5555294+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a45173ae9d8340d00c817ad230e93cc39a3c50f52118eee969e86a844a2c7f41
+    name: shipping
+    type: application
+    urls:
+    - shipping-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-01-13T19:30:02.5483319+05:30"
